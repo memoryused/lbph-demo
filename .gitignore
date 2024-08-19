@@ -1,0 +1,26 @@
+**/.ipynb_checkpoints/
+**/__pycache__/
+* .pytest_cache
+
+### Flask ###
+.evv
+
+# Distribution / packaging
+target/
+build/
+dist/
+
+# Environments
+.venv
+env/
+venv/
+ENV/
+
+# dependencies
+/node_modules
+
+# Model
+lbph_face_recognizer.xml
+
+# Dataset
+data_db/
